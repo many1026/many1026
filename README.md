@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 ### My GitHub Stats
 [![many1026's GitHub Stats](https://github-readme-stats.vercel.app/api?username=many1026&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
- <img width="1000" src="/many1026/sem/snake.svg" alt="snake"/>
+ <img width="1000" src="/sem/snake.svg" alt="snake"/>
 </p>
