@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </p>
  
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=many1026&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
