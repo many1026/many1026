@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My GitHub Stats
-[![many1026's GitHub Stats](https://github-readme-stats.vercel.app/api?username=many1026&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=many1026&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
