@@ -24,11 +24,6 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
-  <img width="600" height="200" src="./profile/stats.svg" alt="GitHub Stats">
-  <img width="400" height="200" src="./profile/top-langs.svg" alt="Top Langs">
-</p>
- 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=many1026&style=for-the-badge&color=orange" alt=""/>
 </div>
